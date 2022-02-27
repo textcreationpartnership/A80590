@@ -1,0 +1,521 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Diggers mirth or, certain verses composed and fitted to tunes, for the delight and recreation of all those who dig, or own that work, in the Commonwealth of England. Wherein is shewed how the kingly power doth still reign in severall sorts of men. With a hint of that freedom which shall come, when the father shall reign alone in his Son. Set forth by those who were the original of that so righteous a work, and continue still successful therein at Cobham in Surrey.</title>
+            <author>Coster, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80590</idno>
+            <idno type="STC">Wing C6366A</idno>
+            <idno type="STC">Thomason E1365_3</idno>
+            <idno type="STC">ESTC R209239</idno>
+            <idno type="EEBO-CITATION">99868125</idno>
+            <idno type="PROQUEST">99868125</idno>
+            <idno type="VID">169849</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169849)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 179:E1365[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Diggers mirth or, certain verses composed and fitted to tunes, for the delight and recreation of all those who dig, or own that work, in the Commonwealth of England. Wherein is shewed how the kingly power doth still reign in severall sorts of men. With a hint of that freedom which shall come, when the father shall reign alone in his Son. Set forth by those who were the original of that so righteous a work, and continue still successful therein at Cobham in Surrey.</title>
+                  <author>Coster, Robert.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Robert Coster.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "Aprill. 4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Levellers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169849:1" rendition="simple:additions"/>
+            <p>The DIGGERS MIRTH, OR, Certain Verſes compoſed and fitted to
+Tunes, for the delight and recreation of all thoſe who Dig, or own that Work,
+in the Commonwealth of <hi>England.</hi>
+            </p>
+            <p>Wherein is ſhewed how the Kingly power doth ſtill Reign in
+ſeverall ſorts of MEN.</p>
+            <q>
+               <l>With a hint of that Freedom which ſhall come,</l>
+               <l>When the Father ſhall reign alone in his Son.</l>
+            </q>
+            <p>Set forth by thoſe who were the ori<g ref="char:EOLhyphen"/>ginal of that ſo
+righteous a Work, and continue ſtill ſucceſsfull therein at
+<hi>Cobham</hi> in SURREY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="carol">
+            <pb facs="tcp:169849:2"/>
+            <pb n="3" facs="tcp:169849:2"/>
+            <head>The Diggers Chriſtmaſs-Caroll.</head>
+            <lg>
+               <l>
+                  <hi>This for a Christmaſſe-Caroll was invented,</hi>
+               </l>
+               <l>
+                  <hi>Which here unto your view is now preſented;</hi>
+               </l>
+               <l>
+                  <hi>'Twas writ at that time which you Chriſtmaſſe
+call</hi>
+               </l>
+               <l>
+                  <hi>And had come forth then; but this is all</hi>
+               </l>
+               <l>
+                  <hi>The reaſon why it came not forth before,</hi>
+               </l>
+               <l>
+                  <hi>Becauſe we thought for to have added more.</hi>
+               </l>
+               <l>
+                  <hi>Accept of this therefore with all thy heart,</hi>
+               </l>
+               <l>
+                  <hi>Thou maiſt hereafter ſee a Second part.</hi>
+               </l>
+            </lg>
+            <div type="body_of_carol">
+               <opener>To the Tune of the <hi>Spaniſh Gypſie.</hi>
+               </opener>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>YOu people which be wiſe,</l>
+                  <l>Will Freedom highly priſe;</l>
+                  <l>For experience you have</l>
+                  <l>What 'tis to be a ſlave:</l>
+                  <l>This have you been all your life long,</l>
+                  <l>But chiefly ſince the Wars begun.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>When great Men diſagree</l>
+                  <l>About Supremacy,</l>
+                  <l>Then doe they warn poor men</l>
+                  <l>To aid and aſſiſt them</l>
+                  <l>In ſetting up their ſelf-will power,</l>
+                  <l>And thus they doe the poor devour.</l>
+               </lg>
+               <lg n="3">
+                  <pb n="4" facs="tcp:169849:3"/>
+                  <head>(3)</head>
+                  <l>Yet they cunningly pretend</l>
+                  <l>They have no other end</l>
+                  <l>But to ſet the poor Free</l>
+                  <l>From all their ſlavery:</l>
+                  <l>And thus they do the poor deceive,</l>
+                  <l>In making them ſuch things believe.</l>
+               </lg>
+               <lg n="4">
+                  <head>(4)</head>
+                  <l>Their blinde Guides will not ſpare,</l>
+                  <l>Theſe things for to declare;</l>
+                  <l>Ye they aloud will cry,</l>
+                  <l>Stand for your liberty;</l>
+                  <l>The Goſpel that lyes at the ſtake;</l>
+                  <l>Riſe therefore 'tis time to awake.</l>
+               </lg>
+               <lg n="5">
+                  <head>(5)</head>
+                  <l>The Prieſts very ſenſible be,</l>
+                  <l>If the poor their Liberty ſee;</l>
+                  <l>Their Tythe-plundring trade will fall,</l>
+                  <l>And then farewell Tythes all.</l>
+                  <l>Then would they not be finely fed,</l>
+                  <l>But they muſt work for their own bread.</l>
+               </lg>
+               <lg n="6">
+                  <pb n="5" facs="tcp:169849:3"/>
+                  <head>6.</head>
+                  <l>The King an Army did gain,</l>
+                  <l>His power for to maintain;</l>
+                  <l>That Army did pretend</l>
+                  <l>For to be <hi>England</hi>'s friend,</l>
+                  <l>In ſaving of their Libertie</l>
+                  <l>Which lay at ſtake and like to die.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Another Army then</l>
+                  <l>Was raiſed by mighty Men,</l>
+                  <l>That Army to oppoſe,</l>
+                  <l>Looking on them as Foes:</l>
+                  <l>Likewiſe theſe powers did agree</l>
+                  <l>To make the Engliſh Nation free.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>A Covenant they did take,</l>
+                  <l>And promiſes they did make</l>
+                  <l>All burthens to remove,</l>
+                  <l>And to unite in love;</l>
+                  <l>Yet we cannot ſee that good hour,</l>
+                  <l>The taking down of Kingly power.</l>
+               </lg>
+               <lg n="9">
+                  <pb n="6" facs="tcp:169849:4"/>
+                  <head>9.</head>
+                  <l>The Nation willingly</l>
+                  <l>Did maintain this Army,</l>
+                  <l>Their Freedom for to gain;</l>
+                  <l>But as yet all in vain:</l>
+                  <l>For ſtill a Kingly power doth ſtand</l>
+                  <l>In many perſons of this Land.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>A Kingly power I ſay</l>
+                  <l>Doth in moſt men bare ſway,</l>
+                  <l>But chiefly in Lords of Mannors,</l>
+                  <l>And in the Prieſts and Lawyers:</l>
+                  <l>This Kingly power is their Self-will,</l>
+                  <l>Which in this manner they do fulfill.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>The Prieſts they tyrannize,</l>
+                  <l>By taking of the Tythes;</l>
+                  <l>The poor they much oppreſſe</l>
+                  <l>By their pride and idleneſſe:</l>
+                  <l>No Scripture warrant they can ſhow,</l>
+                  <l>Why any of theſe things they do.</l>
+               </lg>
+               <lg n="12">
+                  <pb n="7" facs="tcp:169849:4"/>
+                  <head>12.</head>
+                  <l>Therefore I pray conſider,</l>
+                  <l>And lay your heads together;</l>
+                  <l>For you will never thrive,</l>
+                  <l>Whilſt Prieſts do gain the Tythe.</l>
+                  <l>But let them work as well as you,</l>
+                  <l>For Reaſon bids them ſo to do.</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>They neither plow nor ſow,</l>
+                  <l>Nor do they reap or mow,</l>
+                  <l>Nor any ſeed do finde,</l>
+                  <l>But Prieſts the people grinde:</l>
+                  <l>The tenth of all things they do crave;</l>
+                  <l>And thus each man is made a ſlave.</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>The Lawyers they are next,</l>
+                  <l>By whom the poor are vext;</l>
+                  <l>Their practice is moſt baſe,</l>
+                  <l>For they will plead mens Caſe,</l>
+                  <l>According to the length o'th' Purſe,</l>
+                  <l>And ſo the Lawyers prove a Curſe.</l>
+               </lg>
+               <lg n="15">
+                  <pb n="8" facs="tcp:169849:5"/>
+                  <head>15.</head>
+                  <l>Another trick they have,</l>
+                  <l>The Nation to inſlave;</l>
+                  <l>Mens quarrels they'll maintain,</l>
+                  <l>Their Moneys for to gain:</l>
+                  <l>Therefore if Lawyers you uphold,</l>
+                  <l>They'l cheat you of your ſilver &amp; gold.</l>
+               </lg>
+               <lg n="16">
+                  <head>16.</head>
+                  <l>Therefore my brethren dear,</l>
+                  <l>The Lawyers quite Caſhiere;</l>
+                  <l>Go not to them for Law,</l>
+                  <l>For they your ſides will claw;</l>
+                  <l>They'l tell you that your caſe is good,</l>
+                  <l>When they doe mean to ſuck your blood.</l>
+               </lg>
+               <lg n="17">
+                  <head>17.</head>
+                  <l>Therefore be rul'd by me,</l>
+                  <l>And do not Lawyers Fee,</l>
+                  <l>But end your ſuits at home,</l>
+                  <l>Leſt you be overthrown;</l>
+                  <l>For if Lawyers gain your eſtate,</l>
+                  <l>You may repent when 'tis too late.</l>
+               </lg>
+               <lg n="18">
+                  <pb n="9" facs="tcp:169849:5"/>
+                  <head>18.</head>
+                  <l>Beſides the Prieſts and Lawyers,</l>
+                  <l>There be the Lords of Mannors,</l>
+                  <l>Who lay claim to waſte Land,</l>
+                  <l>Which by blood-ſhed was gain'd;</l>
+                  <l>For Duke <hi>William</hi> the <hi>Norman</hi> King,</l>
+                  <l>By much bloodſhed this land did win.</l>
+               </lg>
+               <lg n="19">
+                  <head>19.</head>
+                  <l>When he this Land had gain'd,</l>
+                  <l>He preſently Ordain'd,</l>
+                  <l>That his chief Souldiers ſhould</l>
+                  <l>This Land by parcels hold,</l>
+                  <l>Owning him to be the Supream,</l>
+                  <l>In paying tribute unto him.</l>
+               </lg>
+               <lg n="20">
+                  <head>20.</head>
+                  <l>From hence came Lords of Mannors,</l>
+                  <l>VVith Fines, quit-Rents and Heriots,</l>
+                  <l>And all ſuch curſed things,</l>
+                  <l>Which are payed to theſe Kings:</l>
+                  <l>And thus the people be broughtdown</l>
+                  <l>By Lords of Mannors who wear the Crown.</l>
+               </lg>
+               <lg n="21">
+                  <pb n="10" facs="tcp:169849:6"/>
+                  <head>21.</head>
+                  <l>The Lords of Mannors, I ſay,</l>
+                  <l>Do bear a mighty ſway;</l>
+                  <l>The Common Lands they hold,</l>
+                  <l>Herein they are too bold:</l>
+                  <l>They will not ſuffer men to till</l>
+                  <l>The comon Lands, by their good wil.</l>
+               </lg>
+               <lg n="22">
+                  <head>22.</head>
+                  <l>But Lords of Mannors muſt know,</l>
+                  <l>Their title to Commons is low;</l>
+                  <l>For why their title came in</l>
+                  <l>By WILLIAM the Norman King.</l>
+                  <l>But now the <hi>Norman</hi> ſucceſſor is dead,</l>
+                  <l>Their Royalty to th' Commons is fled.</l>
+               </lg>
+               <lg n="23">
+                  <head>23.</head>
+                  <l>Therefore let me adviſe</l>
+                  <l>All thoſe which Freedom priſe,</l>
+                  <l>To Till each Heath and Plain,</l>
+                  <l>For this will Freedom gain:</l>
+                  <l>Heriots and Fines this will expell,</l>
+                  <l>A bondage great men know full well.</l>
+               </lg>
+               <lg n="24">
+                  <pb n="11" facs="tcp:169849:6"/>
+                  <head>24.</head>
+                  <l>For we do plainly ſee,</l>
+                  <l>The Sword will not ſet's free,</l>
+                  <l>But bondage is increaſed,</l>
+                  <l>Becauſe our wealth is waſted</l>
+                  <l>By paying Taxes and Free-quarter,</l>
+                  <l>Expecting Freedom would com after.</l>
+               </lg>
+               <lg n="25">
+                  <head>25.</head>
+                  <l>But Freedom is not wonn,</l>
+                  <l>Neither by Sword nor Gunn:</l>
+                  <l>Though we have eight years ſtay'd,</l>
+                  <l>And have our Moneys pay'd:</l>
+                  <l>Then Clubs and Diamonds caſt away,</l>
+                  <l>For Harts &amp; Spades muſt win the day.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="12" facs="tcp:169849:7"/>
+               <lg>
+                  <l>A hint of that FREEDOM which ſhall come,</l>
+                  <l>When the Father ſhal Reign alone in his Son.</l>
+               </lg>
+               <lg>
+                  <l>THe Father he is God alone,</l>
+                  <l>nothing beſides him is;</l>
+                  <l>All things are folded in that one,</l>
+                  <l>by him all things ſubſiſt.</l>
+               </lg>
+               <lg>
+                  <l>He is our light, our life, our peace,</l>
+                  <l>whereby we our being have;</l>
+                  <l>From him all things have their increaſe,</l>
+                  <l>the tyrant and the ſlave.</l>
+               </lg>
+               <lg>
+                  <l>And when the Father ſeeth it good,</l>
+                  <l>and his ſet time is come;</l>
+                  <l>He takes away the tyrants food,</l>
+                  <l>and gives it to the Son.</l>
+               </lg>
+               <lg>
+                  <pb n="13" facs="tcp:169849:7"/>
+                  <l>Then <hi>Eſau</hi>'s potage ſhall be eat,</l>
+                  <l>for which he ſold his right;</l>
+                  <l>The bleſſing <hi>Jacob</hi> ſhall obtain,</l>
+                  <l>which <hi>Eſau</hi> once did ſlight.</l>
+               </lg>
+               <lg>
+                  <l>And <hi>Jacob</hi> he ſhall then ariſe</l>
+                  <l>although he be but ſmall</l>
+                  <l>Which <hi>Eſau</hi> once did much deſpiſe</l>
+                  <l>And <hi>Eſau</hi> down muſt fall.</l>
+               </lg>
+               <lg>
+                  <l>For there muſt riſe a root of <hi>Jeſs.</hi>
+                  </l>
+                  <l>a righteous branch indeed;</l>
+                  <l>Who ſetteth free him that's opreſt</l>
+                  <l>and <hi>Eſau</hi> down muſt tread.</l>
+               </lg>
+               <lg>
+                  <l>And <hi>Eſau</hi> ſhall the bleſſing ſeek,</l>
+                  <l>and with tears ſhall it crave;</l>
+                  <l>Which he did ſet unto the meek,</l>
+                  <l>which once he made a ſlave.</l>
+               </lg>
+               <lg>
+                  <pb n="14" facs="tcp:169849:8"/>
+                  <l>But ſing, O <hi>Jacob,</hi> for thy time</l>
+                  <l>of freedom now is come;</l>
+                  <l>And thou thy ſelf judg <hi>Eſau,</hi>
+                  </l>
+                  <l>the which hath done the wrong.</l>
+               </lg>
+               <lg>
+                  <l>For to the Son the Father hath</l>
+                  <l>all Judgment given now;</l>
+                  <l>And <hi>Eſau</hi> ſhall be juſtly judg'd,</l>
+                  <l>which <hi>Jacob</hi>'s ſeed hath plow'd.</l>
+               </lg>
+               <lg>
+                  <l>And thou that as a Lord haſt Raign'd</l>
+                  <l>over Gods Heritage;</l>
+                  <l>Thy part thou haſt already play'd,</l>
+                  <l>therefore come off the Stage.</l>
+               </lg>
+               <lg>
+                  <l>For when thou think'ſt thy ſelf moſt ſafe</l>
+                  <l>and riches thou haſt got;</l>
+                  <l>Then in the middeſt of thy peace,</l>
+                  <l>torment ſhall be thy lot.</l>
+               </lg>
+               <lg>
+                  <pb n="15" facs="tcp:169849:8"/>
+                  <l>And of this long time thou haſt been told,</l>
+                  <l>but much thou didſt it ſlight;</l>
+                  <l>Therefore <hi>Eſau</hi> we muſt be bold</l>
+                  <l>now for to claim our right.</l>
+               </lg>
+               <lg>
+                  <l>For now the Father's pointed time,</l>
+                  <l>which he did fore-intend</l>
+                  <l>To ſet up Freedom, and pull down</l>
+                  <l>the Man which did offend:</l>
+               </lg>
+               <lg>
+                  <l>The time, I ſay, it is now come,</l>
+                  <l>in which the Lord will make</l>
+                  <l>All Tyrants ſervants to the Son,</l>
+                  <l>and he the power will take.</l>
+               </lg>
+               <lg>
+                  <l>This worldly ſtrength wherewith thou didſt</l>
+                  <l>all times thy ſelf repoſe;</l>
+                  <l>Shall prove but as a broken reed,</l>
+                  <l>for thou the field ſhalt loſe.</l>
+               </lg>
+               <lg>
+                  <pb n="16" facs="tcp:169849:9"/>
+                  <l>For there ſhall riſe a mighty Stone,</l>
+                  <l>which without hands is cut;</l>
+                  <l>Which ſhall the Kingly powers break,</l>
+                  <l>he ſhall be free from ſhot.</l>
+               </lg>
+               <lg>
+                  <l>The firſt that which this Stone ſhall ſmite,</l>
+                  <l>ſhall be the head of Gold;</l>
+                  <l>A mortal wound he ſhall them give</l>
+                  <l>now minde thou haſt been told.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
